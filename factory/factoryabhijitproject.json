@@ -1,0 +1,9 @@
+{
+	"name": "factoryabhijitproject",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b4e19ecc-11a2-4919-93ce-7c7596b88903",
+		"tenantId": "2b1e8e0a-9902-48f0-aa48-99b15f38686a"
+	}
+}
